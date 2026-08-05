@@ -1,24 +1,24 @@
-# چک‌لیست من
+# My Checklist
 
-اپلیکیشن ویندوزی برای مدیریت اهداف ماهانه، تقسیم آن‌ها به کارهای هفتگی و روزانه — با تقویم شمسی، آلارم، ویجت روی دسکتاپ، تقویم مناسبت‌های ایران، یادآوری اقساط، و خروجی گزارش اکسل.
+A Windows desktop app for setting monthly goals, breaking them down into weekly and daily tasks, with a Persian (Jalali) calendar, alarms, a floating desktop widget, an Iranian holidays/occasions calendar, recurring payment reminders, and Excel reporting.
 
-## دانلود
+## Download
 
-آخرین نسخه را از صفحه‌ی [Releases](https://github.com/adnank68/checklist-app-download/releases/latest) دانلود کنید (فایل `Setup.X.X.X.exe`، حدود ۹۰ مگابایت) و اجرا کنید.
+Grab the latest installer from the [Releases](https://github.com/adnank68/checklist-app-download/releases/latest) page (`Setup.X.X.X.exe`, about 90 MB) and run it.
 
-## راهنمای استفاده
+## User Guide
 
-برای آشنایی کامل با امکانات برنامه، فایل [راهنمای-کاربری.md](./راهنمای-کاربری.md) را ببینید.
+See [USER_GUIDE.md](./USER_GUIDE.md) for a full walkthrough of the app's features.
 
-## ویژگی‌ها
+## Features
 
-- چک‌لیست سلسله‌مراتبی ماه ← هفته ← روز با به‌روزرسانی خودکار پیشرفت
-- تقویم شمسی کامل، RTL و فارسی
-- آلارم صوتی برای کارهای روزانه
-- ویجت شناور روی دسکتاپ (دایره‌ی کوچک ← پنل کامل)
-- اجرای خودکار هنگام ورود به ویندوز
-- کارهای عقب‌افتاده‌ی هفته/ماه قبل
-- تقویم مناسبت‌های رسمی/مذهبی ایران
-- یادآوری‌های ماهانه‌ی ثابت (اقساط)
-- خروجی گزارش مدیریتی Excel
-- تاریخچه‌ی کامل و قابل مرور
+- Hierarchical checklist: Month → Week → Day, with automatic progress roll-up
+- Full Persian (Jalali) calendar support
+- Sound alarms for daily tasks
+- Floating desktop widget (small bubble ↔ full panel)
+- Auto-start on Windows login
+- Surfaces unfinished tasks from the previous week/month
+- Iranian national/religious occasions calendar
+- Recurring monthly payment reminders (installments)
+- Excel management report export
+- Full browsable history

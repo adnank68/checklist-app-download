@@ -4,7 +4,7 @@
 
 ## دانلود
 
-آخرین نسخه را از صفحه‌ی [Releases](https://github.com/adnank68/checklist-app-download/releases/latest) دانلود کنید (فایل `چک‌لیست من Setup X.X.X.exe`) و اجرا کنید.
+آخرین نسخه را از صفحه‌ی [Releases](https://github.com/adnank68/checklist-app-download/releases/latest) دانلود کنید (فایل `Setup.X.X.X.exe`، حدود ۹۰ مگابایت) و اجرا کنید.
 
 ## راهنمای استفاده
 
